@@ -1,0 +1,18 @@
+#flex-container{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+#flex-child{
+    width: 45%;
+}
+
+h1{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
